@@ -133,13 +133,23 @@
           <div
             class="w-full md:w-5/12 lg:w-1/5 shadow-xl rounded-lg my-3 md:my-10 m-1 transition-all hover:scale-110"
           >
-            <img src="" />
+          <h3>Me Portfolio</h3>
+          
+            <a class="" href="https://marcinp-portfolio.netlify.app">
+              <img src="../assets/projects/portfolio.png" />
+
+            </a>
           </div>
           <!-- card -->
           <div
             class="w-full md:w-5/12 lg:w-1/5 shadow-xl rounded-lg my-3 md:my-10 m-1 transition-all hover:scale-110"
           >
-            <img src="" />
+            <h3>Invoice App</h3>
+           
+            <a href="https://invoices-app-pl.netlify.app" target="_blank">
+
+              <img  src="../assets/projects/invoiceapp.png" />
+            </a>
           </div>
           <!-- card -->
           <div
