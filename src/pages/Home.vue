@@ -131,10 +131,13 @@
         <div class="p-5 sm:p-0 flex flex-wrap justify-between">
           <!-- card -->
           <div
-            class="w-full md:w-5/12 lg:w-1/5 shadow-xl rounded-lg my-3 md:my-10 m-1 transition-all hover:scale-110"
+            class="w-full z-10 md:w-5/12 lg:w-1/5 shadow-xl rounded-lg my-3 md:my-10 m-1 transition-all hover:scale-110"
           >
-          <h3>Me Portfolio</h3>
-          
+            <h3 class="text-xl py-1 ">Me Portfolio</h3>
+            <a class="" href="https://github.com/MarcinVesqum/portfolio-vue-3" target="_blank">
+              <GitHub class="absolute  right-1 top-1 cursor-pointer hover:scale-50" />
+            </a>
+              
             <a class="" href="https://marcinp-portfolio.netlify.app">
               <img src="../assets/projects/portfolio.png" />
 
@@ -144,8 +147,10 @@
           <div
             class="w-full md:w-5/12 lg:w-1/5 shadow-xl rounded-lg my-3 md:my-10 m-1 transition-all hover:scale-110"
           >
-            <h3>Invoice App</h3>
-           
+            <h3 class="text-xl py-1 ">Invoice App</h3>
+            <a href="https://github.com/MarcinVesqum/Invoicing-Application-Vue3/tree/main/InvoiceApp" target="_blank">
+              <GitHub class="absolute  right-1 top-1 cursor-pointer hover:scale-50" />
+            </a>
             <a href="https://invoices-app-pl.netlify.app" target="_blank">
 
               <img  src="../assets/projects/invoiceapp.png" />
@@ -202,6 +207,7 @@
 import VTypical from 'vue-typical';
 import Footer from '../components/layout/Footer.vue';
 import ContactForm from '../components/ContactForm.vue';
+import GitHub from '../assets/iconmonstr-github-1.svg'
 
 </script>
 
