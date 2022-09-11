@@ -26,11 +26,12 @@
       <div
         class="hidden lg:flex flex-col gap-5 rounded-md shadow-lg absolute top-0 bottom-0 m-auto right-10 bg-white dark:bg-slate-900 dark:shadow-slate-800 p-6 h-fit w-1/3"
       >
-        <h1 class="text-4xl font-bold text-indigo-900">Hi, I'm John</h1>
+        <h1 class="text-4xl font-bold text-indigo-900">Hi, I'm Marcin</h1>
         <p class="text-gray-400">
-          with over 10 years of experience on web design and development. Lorem
-          ipsum dolor sit amet consectetur adipisicing elit. N oumquam quo
-          provident, facere minus temporibus veniam nostrum reprehenderit nihil?
+          I am a graduate of CodersLab. 
+          Together with mentors and participants, 
+          I spent a year and a half programming, 
+          designing and managing projects using Frameworks.
         </p>
         <a
           class="bg-indigo-600 text-white text-xl px-3 py-2 rounded-md font-semibold w-fit"

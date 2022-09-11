@@ -18,5 +18,5 @@
 
 <script setup>
 import FacebookIcon from '../../assets/icons8-facebook.svg';
-import LinkedinIcon from '../../assets/icons8-facebook.svg';
+import LinkedinIcon from '../../assets/linkedin-logo-png-2048.png';
 </script>
